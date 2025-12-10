@@ -49,7 +49,7 @@ pip install selenium requests unidecode fp
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ShadowHackrs/Auto-Gmail-Creator.git
+   git clone https://github.com/wytedu/Auto-Gmail-Creator.git
    cd Auto-Gmail-Creator
    ```
 
